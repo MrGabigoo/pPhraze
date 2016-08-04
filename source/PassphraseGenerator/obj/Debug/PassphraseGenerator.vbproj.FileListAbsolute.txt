@@ -1,0 +1,10 @@
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\obj\Debug\PassphraseGenerator.vbproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\bin\Debug\pPhraze.exe.config
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\bin\Debug\pPhraze.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\bin\Debug\pPhraze.pdb
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\bin\Debug\pPhraze.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\obj\Debug\pPhraze.Form1.resources
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\obj\Debug\pPhraze.Resources.resources
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\obj\Debug\pPhraze.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\obj\Debug\pPhraze.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\PassphraseGenerator\PassphraseGenerator\obj\Debug\pPhraze.pdb
