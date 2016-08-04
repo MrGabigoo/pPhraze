@@ -10,3 +10,6 @@ Included in the download is a list which contains 114,554 words, which should be
 To use pPhraze, either download the source code and compile it yourself or download the compiled binary
 
 Here's what you're looking for:  [Releases] (https://github.com/MrGabigoo/pPhraze/releases)
+
+
+[![Build Status](https://travis-ci.org/MrGabigoo/pPhraze.svg?branch=master)](https://travis-ci.org/MrGabigoo/pPhraze)
